@@ -6,7 +6,7 @@ First React app to validate a form.
 
 1. Create the first component using props, Header.
 
-2. 
+2. Create form component and read his values using useState hook.
 
 3. 
 

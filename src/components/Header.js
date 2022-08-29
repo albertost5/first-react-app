@@ -1,13 +1,18 @@
-import React, { Fragment } from 'react'
+import React from 'react'
 
 
-function Header({ title }) {
+// function Header({ title }) {
 
-    return (
-        <Fragment>
-            <h1>{ title }</h1>
-        </Fragment>
-    )
-}
+//     return (
+//         <Fragment>
+//             <h1>{ title }</h1>
+//         </Fragment>
+//     )
+// }
 
+const Header = ({title}) => (
+    <h1>{ title }</h1>
+)
+
+ 
 export default Header;
