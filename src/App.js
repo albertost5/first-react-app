@@ -1,9 +1,15 @@
+import Header from './components/Header.js';
+import React, { Fragment } from 'react'
+
 
 function App() {
   return (
-    <div className="App">
-      <h1> Hello world!</h1>
-    </div>
+    <Fragment>
+      <Header 
+        title='Loans App'
+        description = 'Use the form to calculate the loan.'
+      />
+    </Fragment>
   );
 }
 
