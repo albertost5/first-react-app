@@ -8,9 +8,12 @@ First React app to validate a form.
 
 2. Create form component and read his values using useState hook.
 
-3. 
+3. Validate form and display error if there is an error.
 
-4. 
+4. Display the loan result.
+
+5. Add a spinner before to give the result.
+
 
 
 ## React
