@@ -1,6 +1,6 @@
 # first-react-app
 
-First React app to validate a form.
+First React app to calculate a loan.
 
 ## Features
 
